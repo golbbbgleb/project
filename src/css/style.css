@@ -1,0 +1,13 @@
+p::first-letter{
+    color: blueviolet;
+font-size: 26px;
+font-weight: 600px;
+
+}
+p::first-letter {
+    font-size: 50px;
+    color: brown;
+}
+li{
+     list-style-type: none;
+}
